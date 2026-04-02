@@ -12,13 +12,13 @@ Developed Python-based simulations to model and optimize Betatron-Core and RFKO 
 
 ## Technologies
 - Python (Xsuite, NumPy, Pandas, Matplotlib, Jupyter)
-- Accelerator physics concepts (Twiss parameters, resonance)
+- Accelerator physics concepts (Twiss parameters, resonance, Betatron Core, RFKO)
 
 ## My Contribution
 Developed and optimized simulation models over several months during my IAEA Fellowship at CNAO.
 
 ## Results
-- Improved understanding of extraction efficiency drivers
+- Improved understanding of extraction efficiency
 - Built reusable simulation workflows
 
 ## Note
