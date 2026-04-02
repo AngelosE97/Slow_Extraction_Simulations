@@ -1,9 +1,0 @@
-numpy
-matplotlib
-pandas
-scipy
-jupyter
-xtrack
-xobjects
-xplt
-cpymad
