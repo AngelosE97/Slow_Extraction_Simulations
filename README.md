@@ -1,5 +1,5 @@
 # Slow_Extraction_Simulations
-Python simulations for particle beam slow extraction and optimization (IAEA Fellowship at CNAO)
+Python simulations for particle beam slow extraction and optimization (IAEA Fellowship at CNAO).
 
 ## Overview
 Developed Python-based simulations to model and optimize Betatron-Core and RFKO slow extraction techniques in a synchrotron environment.
