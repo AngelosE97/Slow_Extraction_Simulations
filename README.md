@@ -1,25 +1,39 @@
 # Slow_Extraction_Simulations
 Python simulations for particle beam slow extraction and optimization (IAEA Fellowship at CNAO).
 
-## Overview
-Developed Python-based simulations to model and optimize Betatron-Core and RFKO slow extraction techniques in a synchrotron environment.
+---
 
-## Key Features
-- Simulation of beam dynamics using numerical methods
-- Parameter optimization for extraction efficiency
-- Analysis of phase space behavior
-- Visualization of results
+## Overview
+Developed Python-based simulations to model and optimize key techniques for slow extraction, including:
+- Betatron Core excitation
+- RF Knock-Out (RFKO)
+- Phase space characterization
+- Tune-dependent stability analysis with Steinbach diagrams
+
+The project focuses on **demonstrating simulation workflows, numerical modelling, and code structure**, rather than reproducing the full research environment.
+
+---
+
+## What this project demonstrates
+- Scientific computing in Python
+- Modular code design (separation of logic and simulations)
+- Beam dynamics modelling
+- Phase space analysis & visualization
+- Reusable simulation utilities
+
+---
 
 ## Technologies
-- Python (Xsuite, NumPy, Pandas, Matplotlib, Jupyter)
-- Accelerator physics concepts (Twiss parameters, resonance, Betatron Core, RFKO)
+- Python3
+- Xsuite (xtrack & xobjects)
+- Xplt
+- NumPy
+- Pandas
+- Matplotlib
+- Scipy
+- Jupyter
 
-## My Contribution
-Developed and optimized simulation models over 12 months during my IAEA Fellowship at CNAO.
-
-## Results
-- Improved understanding of extraction efficiency
-- Built reusable simulation workflows
+---
 
 ## Note
-This repository is a simplified/clean version of the original work.
+This repository is a simplified version of the original work.
